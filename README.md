@@ -16,7 +16,7 @@
 **Bloco 03 - Java Web**<br>
  ▫️3.1 Introdução a Java Web<br>
  ▫️3.2  Introdução ao Spring<br>
- ▫️3.3  API REST com Spring<br>
+ ▫️3.2  API REST com Spring<br>
  ▫️3.5  Exceções<br>
  ▫️3.6  Testes com JUnit<br>
  ▫️3.7  Containers Java e Docker<br>
