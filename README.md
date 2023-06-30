@@ -9,8 +9,8 @@
 
 
 **Bloco 02 - Orientação a Objetos**<br>
- ▫️2.1 Abstração, Encapsulamento e Herança<br>
- ▫️2.2 Polimorfismo, Interfaces e Classes Abstratas<br>
+ ▫️2.1  Abstração, Encapsulamento e Herança<br>
+ ▫️2.2  Polimorfismo, Interfaces e Classes Abstratas<br>
  
 
 **Bloco 03 - Java Web**<br>
