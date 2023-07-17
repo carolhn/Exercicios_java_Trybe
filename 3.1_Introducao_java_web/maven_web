@@ -1,0 +1,4 @@
+COMO RODAR UM SERVIDOR MAVEN WEB?
+
+1 - NO TERMINAL COLE O COMANDO ABAIXO
+mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeVersion=1.4
