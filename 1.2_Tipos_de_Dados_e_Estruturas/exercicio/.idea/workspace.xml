@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4037b361-6383-443c-87e9-a9532211c1b6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CalculadoraFrete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1.1_Introducao_ao_Desenvolvimento_Java/java-sample-hello-world" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.1_Introducao_ao_Desenvolvimento_Java/java-sample-hello-world" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java-026-java-exercicio-lista-fundamentos-java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-026-java-exercicio-lista-fundamentos-java" afterDir="false" />
+=======
+    <list default="true" id="cd6c0bb2-294f-43a3-995a-e794ca0454da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.1_Introducao_ao_Desenvolvimento_Java/java-sample-hello-world" beforeDir="false" afterPath="$PROJECT_DIR$/../../1.1_Introducao_ao_Desenvolvimento_Java/java-sample-hello-world" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-026-java-exercicio-lista-fundamentos-java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-026-java-exercicio-lista-fundamentos-java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1.3_Manipulaçao_Strings_Classes_Tipos_Numéricos/Dados_e_estruturas/src/java/string.java" beforeDir="false" />
+>>>>>>> 37faeb6 (fix: readme)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +33,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2SAOXwvHnSpWstCfC47Th0pHngV" />
+=======
+  <component name="ProjectId" id="2SCeaBh8RxtYswvQP0X1W9DXSCH" />
+>>>>>>> 37faeb6 (fix: readme)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -48,6 +61,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1688585965485</updated>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6c0bb2-294f-43a3-995a-e794ca0454da" name="Changes" comment="" />
+      <created>1688655061043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688655061043</updated>
+>>>>>>> 37faeb6 (fix: readme)
     </task>
     <servers />
   </component>
