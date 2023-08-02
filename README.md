@@ -14,7 +14,7 @@
  
 
 **Bloco 03 - Java Web**<br>
- ▫️3.1 Introdução a Java Web<br>
+ ▫️3.1  Introdução a Java Web<br>
  ▫️3.2  Introdução ao Spring<br>
  ▫️3.2  API REST com Spring<br>
  ▫️3.5  Exceções<br>
